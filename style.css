@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  margin: 64px auto 0;
+  width: 100%;
+}
+#globo {
+  width: 592px;
+  margin: 0 auto 32px;
+}
+h1 {
+  font-family: 'Dosis', sans-serif;
+  color: #3f3d56;
+  font-weight: normal;
+  font-size: 32px;
+  margin: 0 auto 16;
+}
+h1 span {
+  color: #ee24ff;
+  font-weight: bold;
+}
+p {
+  color: #828282;
+  margin: 0 auto 64px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 22px;
+  width: 540px;
+}
+
+p span {
+  color: #3f3d56;
+  font-weight: bold;
+  line-height: 28px;
+}
+footer a + a {
+  margin-left: 28px;
+}
+
+/*Dando problema*/
+#wave {
+  position: relative;
+  bottom: -5px;
+  margin: 40px auto 0;
+  width: 1024px;
+  height: 104px;
+}
+footer a {
+  color: #3f3d56;
+  font-weight: bold;
+  text-decoration: none;
+}
+#line {
+  width: 568px;
+  height: 0;
+  margin: 64px auto 16px;
+
+  border: 1px solid #eceff2;
+}
